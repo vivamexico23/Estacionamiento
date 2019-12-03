@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Estacionamiento</name>
+    <description>
+        Aplicación escolar que administra el estacionamiento del centro unversitario CUCEI.
+    </description>
+    <author email="support@phonegap.com" href="http://phonegap.com">
+        Programación para Internet
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
